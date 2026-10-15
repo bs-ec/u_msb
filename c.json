@@ -2,7 +2,7 @@
   "v": 2,
   "items": [
     {
-      "maWeb": 26101505,
+      "maWeb": 26101500,
       "android": "3.0.40+201",
       "ios": null,
       "url": "https://github.com/bs-ec/u_msb/releases/download/r26101505/p.bin",
@@ -12,7 +12,7 @@
       "ghiChu": "Cải thiện hiệu năng, sửa lỗi"
     },
     {
-      "maWeb": 26101505,
+      "maWeb": 26101500,
       "android": null,
       "ios": "3.0.40+201",
       "url": "https://github.com/bs-ec/u_msb/releases/download/r26101505/p.bin",
